@@ -1,2 +1,3 @@
 # pydjango-todoapp
-Build a Django RESTful API on Fedora. From Fedora Magazine
+
+https://www.django-rest-framework.org/tutorial/quickstart/
